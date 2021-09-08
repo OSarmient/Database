@@ -1,0 +1,10 @@
+1,Aritmética,Aprende a realizar estas operaciones aritméticas básicas,2020,joanp@gmail.com
+2,Trigonometría,Descubre las aplicaciones prácticas de la Trigonometría y empieza a entenderla en profundidad,2020,pepea@gmail.com
+3,Geometría,Aprende conceptos de geometría para todas las edades,2020,pedrom@gmail.com
+4,Literatura latinoamericana,Aprende acerca de la evolución de la literatura en latinoamerica,2020,mariann@gmail.com
+5,Física Cuántica,Aprende sobre el movimiento de las cosas en el mundo subatómico,2020,laurab@gmail.com
+6,Aritmética,Aprende a realizar estas operaciones aritméticas básicas,2021,joanp@gmail.com
+7,Trigonometría,Descubre las aplicaciones prácticas de la Trigonometría y empieza a entenderla en profundidad,2021,pepea@gmail.com
+8,Geometría,Aprende conceptos de geometría para todas las edades,2021,pedrom@gmail.com
+9,Literatura Europea,Aprende acerca de la evolución de la literatura en europa,2022,mariann@gmail.com
+10,Física Mecánica,Aprende sobre física mecánica,2022,laurab@gmail.com

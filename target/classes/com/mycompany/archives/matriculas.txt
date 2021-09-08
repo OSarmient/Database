@@ -1,0 +1,15 @@
+1,camilag@gmail.com,3
+2,camilag@gmail.com,10
+3,camilag@gmail.com,7
+4,juano@gmail.com,2
+5,juano@gmail.com,3
+6,angelv@gmail.com,1
+7,angelv@gmail.com,3
+8,angelv@gmail.com,8
+9,emiliab@gmail.com,9
+10,emiliab@gmail.com,10
+11,emiliab@gmail.com,1
+12,emmak@gmail.com,1
+13,emmak@gmail.com,5
+14,emmak@gmail.com,4
+15,emmak@gmail.com,6
